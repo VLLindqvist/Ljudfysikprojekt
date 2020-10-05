@@ -1,4 +1,6 @@
-### `(Demo)[https://ljudfysik.vlq.se/]`
+### `[Demo](https://ljudfysik.vlq.se/)`
+
+------------------------------------
 
 In the project directory, you can run:
 
